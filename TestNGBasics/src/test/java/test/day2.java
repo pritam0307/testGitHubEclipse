@@ -8,6 +8,7 @@ public class day2 {
 	public void testMethod1()
 	{
 		System.out.println("Method 1");
+		System.out.println("Added new comments to test branch");
 	}
 	
 	@Test
